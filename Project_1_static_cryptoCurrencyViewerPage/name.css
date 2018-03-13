@@ -1,0 +1,27 @@
+/*rgb(235, 215, 159)*/
+body{
+    --vasaktekst: rgb(235, 215, 159);
+width: 350px;
+    --paremtekst: #000000;
+    --vasaktaust: #000000;
+    --paremtaust: #ffffff; 
+}
+.box{
+    width: 170px;
+    height: 50px; 
+    text-align: center; 
+    vertical-align: middle;  
+}
+.center-text {
+    margin: auto;
+}
+.right{
+    display: inline-block;
+    background-color: var(--paremtaust);
+    color: var(--paremtekst);
+}
+.left{
+    display: inline-block;
+    background-color: var(--vasaktaust);
+    color: var(--vasaktekst);
+}
