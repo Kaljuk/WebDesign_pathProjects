@@ -21,6 +21,9 @@ body {
     width: 170px;
     text-align: center;
     font-size: 1em;
+
+    vertical-align: middle;
+    display: table-cell;
 }
 
 span {
