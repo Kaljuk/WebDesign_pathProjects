@@ -6,10 +6,14 @@
 Static as no dynamics - no javascript, all pure text, no mumboJumbo or similar shenaniganz.
 #### Features
 ###### LoginPage
+- Click to login
 
+###### MainPage
 - Shows 5 Cryptocurrencies and their imaginary values
 - 20:60:20 Page ratio in desktop view
 - Click/Hover on a cryptoCurrency to make its colors brighter
+
+
 --- 
 ## Project 2 : Static Hiking OnePager
 #### OnePager?
