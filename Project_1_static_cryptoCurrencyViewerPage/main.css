@@ -1,0 +1,42 @@
+
+/*
+
+    beež - #fdd898
+*/
+
+body {
+    width: 350px;
+
+    background-color: rgb(235, 215, 159);
+
+    --vasaktekst: rgb(235, 215, 159);
+    --vasaktaust: #000000;
+
+    --paremtekst: #000000;
+    --paremtaust: #fff;
+}
+
+.box {
+    height: 50px;
+    width: 170px;
+    text-align: center;
+    font-size: 1em;
+}
+
+span {
+    margin: auto;
+    height: 2em;
+}
+
+.left {
+    display: inline-block;
+    background-color: var(--vasaktaust);
+    color: var(--vasaktekst);
+}
+
+.right {
+    display: inline-block;
+    background-color: var(--paremtaust);
+    color: var(--paremtekst);
+}
+
